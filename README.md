@@ -6,15 +6,16 @@ This repository contains implementations of key data structures and algorithms d
 ---
 
 ## Table of Contents  
-1. [Lab 02 – Stacks](#lab-02-stacks)  
-2. [Lab 03 – Queues](#lab-03-queues)  
-3. [Lab 04 – Linked Lists](#lab-04-linked-lists)  
+1. [Stacks](#stacks)  
+2. [Queues](#queues)  
+3. [Linked Lists](#linked-lists)  
 4. [Expression Evaluation](#expression-evaluation)  
-5. [BST Dictionary (AVL Tree Implementation)](#bst-dictionary-avl-tree-implementation)  
+5. [BST Dictionary (AVL Tree)](#bst-dictionary-avl-tree)  
+6. [Class Materials](#class-materials)  
 
 ---
 
-### Lab 02 – Stacks  
+### Stacks  
 **Description**: Implementation of a stack using arrays and linked lists, with advanced utility functions.  
 **Key Features**:  
 - Core operations: `push`, `pop`, `peek`, `isEmpty`, `isFull`, `display`.  
@@ -27,7 +28,7 @@ This repository contains implementations of key data structures and algorithms d
 
 ---
 
-### Lab 03 – Queues  
+### Queues  
 **Description**: Queue operations using arrays, including complex modifications.  
 **Key Features**:  
 - Core operations: `enqueue`, `dequeue`, `isEmpty`, `isFull`, `display`.  
@@ -40,7 +41,7 @@ This repository contains implementations of key data structures and algorithms d
 
 ---
 
-### Lab 04 – Linked Lists  
+### Linked Lists  
 **Description**: Single linked list operations with extended functionalities.  
 **Key Features**:  
 - Core operations: Insertion/deletion at beginning/end, traversal.  
@@ -64,7 +65,7 @@ This repository contains implementations of key data structures and algorithms d
 
 ---
 
-### BST Dictionary (AVL Tree Implementation)  
+### BST Dictionary (AVL Tree)  
 **Description**: Spell-checking system using a self-balancing AVL Tree for optimal performance.  
 **Key Features**:  
 - **AVL Tree** implementation to ensure O(log n) search/insert complexity.  
@@ -73,6 +74,12 @@ This repository contains implementations of key data structures and algorithms d
   - Sentence spell-checking with incorrect word suggestions (predecessor, successor, and last-visited node).  
 - Bonus: Comparison with unbalanced BST for demonstration.  
 **Enhancements**: Streamlined CLI with color-coded outputs and detailed error diagnostics.  
+
+---
+
+### Class Materials  
+Access lecture slides, supplementary resources, and additional course materials here:  
+[Class Materials (Google Drive Folder)](https://drive.google.com/drive/folders/1us8fvuYPY9d5-Z5Pd77q9njaK5E_mRE-)  
 
 ---
 
@@ -86,9 +93,10 @@ Each assignment folder contains:
 ---
 
 ## Notes  
-- **Collaboration**: Worked in groups of two as per course guidelines.  
+- **Independent Work**: Completed all assignments individually despite the course recommendation to collaborate in groups of two.  
 - **Beyond Requirements**: Added advanced UIs, input validation, and performance optimizations.  
 - **AVL Tree**: Chosen for the BST Dictionary to ensure efficient search operations, as highlighted in the bonus section.  
+- **Skills Demonstrated**: Self-reliance in full-cycle development, debugging, and implementation of complex data structures.  
 
 Explore the code to see how core data structures are applied to solve real-world problems!  
 
